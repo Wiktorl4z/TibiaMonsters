@@ -1,6 +1,6 @@
 # TibiaMonsters
 
-<img src="https://github.com/Wiktorl4z/TibiaMonsters/blob/master/logo_yellow.png?raw=true" width="300">
+<img src="https://github.com/Wiktorl4z/TibiaMonsters/blob/master/logo_black.png?raw=true" width="300">
 
 This is a "monster filter" for the game "Tibia". It's designed with the intention to provide information's about last killed monsters on a given server and calculates the likelihood of a given monsters.
 
@@ -34,4 +34,4 @@ Back-end
 * [Jsoup](https://github.com/jhy/jsoup)
 * [Tomcat](https://github.com/apache/tomcat)
 * [MySql](https://github.com/mysql)
-* [Data-jpa](https://github.com/spring-projects/spring-data-jpa)
+* [Data-JPA](https://github.com/spring-projects/spring-data-jpa)
